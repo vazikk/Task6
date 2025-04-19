@@ -66,6 +66,6 @@ done
    ![Image alt](https://github.com/vazikk/Task6/blob/main/image4.png) <br>
    ![Image alt](https://github.com/vazikk/Task6/blob/main/image5.png) <br>
 
-Раскидывание логов: 
+Раскидывание логов: <br>
    ![Image alt](https://github.com/vazikk/Task6/blob/main/image6.png) <br>
 
